@@ -167,7 +167,7 @@ In this stage the manifest file is processed to identify the datafiles that need
         },
         {
             "ParameterKey": "pDataFileTimeout",
-            "ParameterValue": "15"
+            "ParameterValue": "10"
         }
     ]
     ```
